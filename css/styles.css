@@ -3936,7 +3936,7 @@ input[type="button"].btn--primary:focus {
 
 .folio-item__thumb::after {
     z-index: 1;
-    content: "AfterGenesysBlock \A  Blog of the blockchain \A HTML5 | CSS3 |  API  JAVASCRIPT";
+    content: "Naturelife \A Nature Life Brand Website  \A Wordpress | PHP Elementor";
     white-space: pre-wrap;
     font-family: var(--font-2);
     font-weight: 400;
@@ -3954,11 +3954,11 @@ input[type="button"].btn--primary:focus {
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
     left: 15%;
-    top: 19%;
+    top: 12%;
 }
 .folio-item__thumb2::after {
     z-index: 1;
-    content: "TODO'S REACT APP \A Todo Signings of \A Manchester United \A HTML5 | CSS3 | REACT \A LOCAL STORAGE | Auth0";
+    content: "SSGLOW Clothing Brand \A e-commerce Website \A Wordpress | PHP Elementor | Woocommerce";
     white-space: pre-wrap;
     font-family: var(--font-2);
     font-weight: 400;
@@ -3975,7 +3975,7 @@ input[type="button"].btn--primary:focus {
     -webkit-transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
-    left: 15%;
+    left: 14%;
     top: 10%;
 }
 .folio-item__thumb3::after {
