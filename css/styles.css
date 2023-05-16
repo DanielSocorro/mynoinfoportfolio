@@ -3980,7 +3980,7 @@ input[type="button"].btn--primary:focus {
 }
 .folio-item__thumb3::after {
     z-index: 1;
-    content: "PLATZI CONF FEST \A E-commerce React App  \A REACT | HTML5 | CSS3  JAVASCRIPT ";
+    content: "Property Brothers \A Real Estate Agents \A Wordpress | PHP | Elementor";
     white-space: pre-wrap;
     font-family: var(--font-2);
     font-weight: 400;
@@ -3998,7 +3998,7 @@ input[type="button"].btn--primary:focus {
     transition: all, 0.5s cubic-bezier(0.215, 0.61, 0.355, 1);
     position: absolute;
     left: 15%;
-    top: 17%;
+    top: 12%;
 }
 .folio-item__thumb4::after {
     z-index: 1;
